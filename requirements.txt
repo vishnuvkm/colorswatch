@@ -2,7 +2,7 @@ asgiref==3.2.10
 colour==0.1.5
 cycler==0.10.0
 Django==3.0.8
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 kiwisolver==1.2.0
 matplotlib==3.3.0
 numpy==1.19.1
